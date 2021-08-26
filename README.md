@@ -1,4 +1,4 @@
-# IoT-Plant-Monitoring-Device
+# IoT-Plant-Monitoring-Device 
 
 An IoT device for monitoring plant environmental conditions. Built using a NodeMcu microcontroller which runs a Lua script.
 
